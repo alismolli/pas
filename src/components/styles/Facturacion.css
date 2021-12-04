@@ -1,0 +1,15 @@
+.facturacion-card {
+    margin: 0 auto;
+    margin-top: 60px;
+    width: 60%;
+    overflow: hidden;
+    border-radius: 20px;
+    background-color: rgba(236, 186, 232, 0.664);
+  }
+  
+  .facturacion-card header img {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 80%;
+    height: 220px;
+  }
